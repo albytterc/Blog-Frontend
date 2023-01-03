@@ -1,0 +1,42 @@
+.blog-form {
+    display: inline;
+}
+
+.blog-form > div div {
+    width: 270px;
+    height: 30px;
+}
+
+.blog-form > div div input {
+    width: 200px;
+    float: right;
+    overflow: hidden;
+}
+
+.blog-form > div div label {
+    width: 200px;
+}
+
+button {
+    margin: 0 2px;
+}
+
+
+.login-form {
+    display: inline;
+}
+
+.login-form > div {
+    width: fit-content;
+    height: 25px;
+}
+
+.login-form > div label {
+    display: inline-block;
+    min-width: 75px;
+}
+
+.login-form > div input {
+    float: right;
+    overflow: hidden;
+}
